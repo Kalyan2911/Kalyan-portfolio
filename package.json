@@ -1,0 +1,10 @@
+{
+  "name": "kalyan",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix kalyan-portfolio-react run dev",
+    "build": "npm --prefix kalyan-portfolio-react run build",
+    "preview": "npm --prefix kalyan-portfolio-react run preview",
+    "install:app": "npm --prefix kalyan-portfolio-react install"
+  }
+}

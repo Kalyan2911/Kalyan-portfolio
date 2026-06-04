@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(pkill -f \"vite --port 5173\")",
+      "Read(//Users/kalyan/Desktop/Ujjwal/**)",
+      "Bash(unzip -l \"Case Studies Mar 10 2026.zip\")",
+      "Bash(unzip -l \"9d862445-8b1f-4814-9d9c-41ba09e2f14c_Export-5f51e165-8d72-47c0-9b0e-048b95af3e5f.zip\")",
+      "Bash(unzip -l \"1b73bd31-4205-45e2-970a-d03ff77475df_Export-775e6d56-d0d5-4c13-a0a4-2b2814a55ad6.zip\")"
+    ]
+  }
+}
